@@ -89,6 +89,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sunny-br55&theme=radical&no-frame=true&margin-w=4" />
 </p>
 
+
 ---
 
 # 📊 GitHub Stats:
@@ -101,13 +102,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-br55&theme=radical&layout=compact&hide_border=true" height="160px"/>
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny-br55&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunny-br55&show_icons=true&theme=radical&cache_seconds=1800" height="160px"/>
   <img src="https://streak-stats.demolab.com?user=sunny-br55&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-br55&layout=compact&theme=radical" height="160px"/>
 </p>
+
 ---
 
 ## 💬 Random Developer Quote
